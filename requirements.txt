@@ -1,0 +1,14 @@
+flask
+flask-restful
+langchain
+python-dotenv
+faiss-cpu
+google-generativeai
+unstructured
+requests
+langchain-google-genai
+sentence-transformers
+beautifulsoup4
+huggingface-hub
+transformers
+torch 
