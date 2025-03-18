@@ -25,4 +25,5 @@ This project implements a custom chatbot that can answer questions about technic
 git clone https://github.com/AlapatiSreeHarsha/ai_task.git
 2.Files running
 open Terminal and run 
+pip install -r requirements.txt
 python app.py
